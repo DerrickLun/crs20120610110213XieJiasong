@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Androidwork.iml" filepath="$PROJECT_DIR$/Androidwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiejiasong10/xiejiasong10.iml" filepath="$PROJECT_DIR$/xiejiasong10/xiejiasong10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiejiasong2/xiejiasong2.iml" filepath="$PROJECT_DIR$/xiejiasong2/xiejiasong2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiejiasong3/xiejiasong3.iml" filepath="$PROJECT_DIR$/xiejiasong3/xiejiasong3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiejiasong4/xiejiasong4.iml" filepath="$PROJECT_DIR$/xiejiasong4/xiejiasong4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiejiasong5/xiejiasong5.iml" filepath="$PROJECT_DIR$/xiejiasong5/xiejiasong5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiejiasong6.7/xiejiasong6.7.iml" filepath="$PROJECT_DIR$/xiejiasong6.7/xiejiasong6.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiejiasong8/xiejiasong8.iml" filepath="$PROJECT_DIR$/xiejiasong8/xiejiasong8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiejiasong9/xiejiasong9.iml" filepath="$PROJECT_DIR$/xiejiasong9/xiejiasong9.iml" />
+    </modules>
+  </component>
+</project>
